@@ -1,0 +1,30 @@
+#About {
+    background: linear-gradient(#45fb8a 33%, #65f7c1 34%, #78fd21 33%);
+    text-align: center;
+}
+
+body {
+    font-family: comfortaa, monospace;
+    color: white;
+}
+
+h1 {
+    text-shadow: 2px 2px #f8bbd0;
+    font-size: 50px;
+}
+
+#chessimg {
+    border-radius: 50%;
+}
+
+
+.menu {
+    list-style: none;
+    font-family: comfortaa, monospace;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+
+}
