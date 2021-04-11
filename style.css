@@ -1,3 +1,9 @@
+
+html{
+    scroll-behavior: smooth;
+}
+
+
 #About {
     background: linear-gradient(#45fb8a 33%, #65f7c1 34%, #78fd21 33%);
     text-align: center;
@@ -27,4 +33,28 @@ h1 {
     cursor: pointer;
     color: black;
 
+}
+
+.link:hover {
+    color: cadetblue;
+}
+
+#Rules {
+    background-color: darkolivegreen;
+    text-align: center;
+}
+
+#Players {
+    text-align: center;
+    background-color:antiquewhite;
+}
+
+#TaS{
+    background-color:chocolate;
+    text-align: center;
+}
+
+#History{
+    background-color:darkgrey;
+    text-align:center;
 }
