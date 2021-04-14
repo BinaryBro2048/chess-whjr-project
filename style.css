@@ -1,6 +1,7 @@
 
 html{
     scroll-behavior: smooth;
+    text-align: center;
 }
 
 
@@ -57,4 +58,13 @@ h1 {
 #History{
     background-color:darkgrey;
     text-align:center;
+}
+
+
+#Inspirations a img{
+    transition: transform .2s;
+}
+
+#Inspirations a img:hover{
+    transform: scale(0.9);
 }
