@@ -1,5 +1,4 @@
-
-html{
+html {
     scroll-behavior: smooth;
     text-align: center;
 }
@@ -47,24 +46,32 @@ h1 {
 
 #Players {
     text-align: center;
-    background-color:antiquewhite;
+    background-color: antiquewhite;
 }
 
-#TaS{
-    background-color:chocolate;
+#TaS {
+    background-color: chocolate;
     text-align: center;
 }
 
-#History{
-    background-color:darkgrey;
-    text-align:center;
+#History {
+    background-color: darkgrey;
+    text-align: center;
 }
 
 
-#Inspirations a img{
+#Inspirations a img {
     transition: transform .2s;
 }
 
-#Inspirations a img:hover{
+#Inspirations a img:hover {
     transform: scale(0.9);
+}
+
+#Inspirations {
+    background: red;
+}
+
+#Contact {
+    background: black;
 }
